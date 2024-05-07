@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+
+h1 {
+    background-color: green;
+    color: red;
+    text-align: center;
+    font-weight: 800;
+    width: 400px;
+    
+}
+
+li {
+    font-weight: 600;
+    
+}
+
+.nasi-goreng {
+    background-color: lightsalmon;
+}
+
+.microwaved-ice {
+    background-color: lightblue;
+}
+
+.melted-ice-cream {
+    background-color: lightslategray;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
